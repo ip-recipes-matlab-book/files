@@ -2,7 +2,7 @@
 
 ### Part I Basic Image Processing: Acquisition and Visualization
 - Recipe 1: Loading, Displaying and Saving Images
-- Recipe 2: Image Conversion
+- Recipe 2: Image Conversion (_no files_)
 - Recipe 3: Image Acquisition Using a Webcam
 - Recipe 4: Browsing Through Images
 ### Part II Geometric Operations
