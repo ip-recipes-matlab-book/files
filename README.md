@@ -1,4 +1,4 @@
-You can browse and download the recipes' files separately or download everything by clicking on ```<> Code``` $\rightarrow$ ```Download ZIP``` above.
+You can browse the folders, download the recipes' files separately, or download everything by clicking on ```<> Code``` $\rightarrow$ ```Download ZIP``` above.
 
 ### Part I Basic Image Processing: Acquisition and Visualization
 - Recipe 1: Loading, Displaying and Saving Images
