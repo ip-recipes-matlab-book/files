@@ -1,12 +1,4 @@
-$$\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$$
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+You can browse and download the recipe files separately or download everything by clicking on the ```<> Code``` $\rightarrow$ ```Download ZIP``` button above.
 
 ### Part I Basic Image Processing: Acquisition and Visualization
 - Recipe 1: Loading, Displaying and Saving Images
