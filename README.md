@@ -1,4 +1,4 @@
-:green_circle: You can browse the folders, view and download the listings and images individualy, or download everything by clicking on ```<> Code``` $\rightarrow$ ```Download ZIP``` above
+:green_circle: Browse the folders above to view and download the listings and images individually, or download everything by clicking on ```<> Code``` $\rightarrow$ ```Download ZIP```
 
 ### Part I Basic Image Processing: Acquisition and Visualization
 - Recipe 1: Loading, Displaying and Saving Images
