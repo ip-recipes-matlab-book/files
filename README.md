@@ -1,3 +1,5 @@
+$\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
+
 ### Part I Basic Image Processing: Acquisition and Visualization
 - Recipe 1: Loading, Displaying and Saving Images
 - Recipe 2: Image Conversion
