@@ -1,41 +1,41 @@
 :green_circle: Browse the folders above to view and download the listings and images individually, or download everything by clicking on ```<> Code``` $\rightarrow$ ```Download ZIP```
 
 ### Part I Basic Image Processing: Acquisition and Visualization
-- Recipe 1: Loading, Displaying and Saving Images
-- Recipe 2: Image Conversion (_no files_)
-- Recipe 3: Image Acquisition Using a Webcam
-- Recipe 4: Browsing Through Images
+- Recipe 1: Loading, displaying and saving images
+- Recipe 2: Image conversion (_no files_)
+- Recipe 3: Image acquisition using a webcam
+- Recipe 4: Browsing through images
 ### Part II Geometric Operations
-- Recipe 5: Geometric Transformations
-- Recipe 6: Image Warping
+- Recipe 5: Geometric transformations
+- Recipe 6: Image warping
 ### Part III Histograms
-- Recipe 7: Histograms and Statistics of Grayscale Images
-- Recipe 8: Histogram Equalization and Histogram Matching
-- Recipe 9: Individual Channel Histograms of Color Images
-- Recipe 10: Combined Color Histograms and Dominant Colors in an Image
+- Recipe 7: Histograms and statistics of grayscale images
+- Recipe 8: Histogram equalization and histogram matching
+- Recipe 9: Individual channel histograms of color images
+- Recipe 10: Combined color histograms and dominant colors in an image
 ### Part IV Point Transformations
-- Recipe 11: Intensity Transformation Functions
-- Recipe 12: Custom Point Transformation Functions
-- Recipe 13: Gamma Correction
-- Recipe 14: Leveling Non-uniform Illumination
+- Recipe 11: Intensity transformation functions
+- Recipe 12: Custom point transformation functions
+- Recipe 13: Gamma correction
+- Recipe 14: Leveling non-uniform illumination
 ### Part V Spatial Filtering and Special Effects
-- Recipe 15: Smoothing Filters
-- Recipe 16: Sharpening Filters
-- Recipe 17: Other Image Filters and Special Effects
+- Recipe 15: Smoothing filters
+- Recipe 16: Sharpening filters
+- Recipe 17: Other image filters and special effects
 ### Part VI Image Segmentation
-- Recipe 18: Image Binarization
-- Recipe 19: Region-based Segmentation
-- Recipe 20: Image Segmentation Using K-means Clustering
-- Recipe 21: Superpixel Oversegmentation Using SLIC
-- Recipe 22: Graph-based Segmentation
+- Recipe 18: Image binarization
+- Recipe 19: Region-based segmentation
+- Recipe 20: Image segmentation using K-means clustering
+- Recipe 21: Superpixel oversegmentation using SLIC
+- Recipe 22: Graph-based segmentation
 ### Part VII Binary Image Analysis
-- Recipe 23: Finding, Counting, and Accessing Connected Components in Binary Images
-- Recipe 24: Basic Morphological Operations
-- Recipe 25: Computing Connected Components’ Features
+- Recipe 23: Finding, counting, and accessing connected components in binary images
+- Recipe 24: Basic morphological operations
+- Recipe 25: Computing connected components’ features
 ### Part VIII Color Image Processing
-- Recipe 26: Converting Among Different Color Spaces
-- Recipe 27: Color Image Adjustments
-- Recipe 28: Image Pseudocoloring
+- Recipe 26: Converting among different color spaces
+- Recipe 27: Color image adjustments
+- Recipe 28: Image pseudocoloring
 ### Part IX Batch Processing and Handling Large Images
-- Recipe 29: Processing Very Large Images
-- Recipe 30: Batch Processing a Set of Images
+- Recipe 29: Processing very large images
+- Recipe 30: Batch processing a set of images
